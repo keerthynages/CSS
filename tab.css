@@ -1,0 +1,27 @@
+table,td,th{
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+th{
+background-color:blue;
+}
+
+.time
+{background-color:slateblue;
+}
+
+.cell1{background-color: aqua;}
+
+.cell2{background-color: violet;}
+
+.cell3{background-color: yellow;}
+
+.cell4{background-color: lime;
+text-align: center;}
+
+.cell5{background-color: orange;}
+
+.cell6{background-color: tomato;}
+
+.cell7{background-color: red;}
